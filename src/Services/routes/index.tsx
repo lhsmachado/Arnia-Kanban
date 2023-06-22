@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import  Home  from "../../Screens/Home";
-import LoginScreen from "../../Screens/Login";
-import SignupScreen from "../../Screens/SignUp";
+import  Home  from "../../Pages/Home";
+import LoginScreen from "../../Pages/Login";
+import SignupScreen from "../../Pages/SignUp";
 
 export default function RoutesApp (){
     return(
